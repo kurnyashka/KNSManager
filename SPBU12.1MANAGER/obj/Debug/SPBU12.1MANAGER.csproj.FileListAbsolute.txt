@@ -1,0 +1,56 @@
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\SPBU12.1MANAGER.exe.config
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\SPBU12.1MANAGER.exe
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\SPBU12.1MANAGER.pdb
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\Microsoft.DirectX.Diagnostics.dll
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\Microsoft.DirectX.DirectDraw.dll
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\Microsoft.DirectX.DirectInput.dll
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\Microsoft.DirectX.DirectPlay.dll
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\Microsoft.DirectX.Diagnostics.xml
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\Microsoft.DirectX.DirectDraw.xml
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\Microsoft.DirectX.DirectInput.xml
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\Microsoft.DirectX.DirectPlay.xml
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12.1MANAGER.csprojResolveAssemblyReference.cache
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12.1MANAGER.csproj.ResolveComReference.cache
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.Configuration.resources
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.CopyBox.resources
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.DownloadFiles.resources
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.Favorite.resources
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.FindAsync.resources
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.Form1.resources
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.HelpBox.resources
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.Properties.Resources.resources
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.Start.resources
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.WhichFindPD.resources
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.Window.resources
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12.1MANAGER.csproj.GenerateResource.Cache
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12.1MANAGER.exe
+C:\Users\Alex Berezhnyh\Desktop\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12.1MANAGER.pdb
+C:\Users\Natasha\Downloads\SPBU12_1MANAGER\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\SPBU12.1MANAGER.exe.config
+C:\Users\Natasha\Downloads\SPBU12_1MANAGER\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12.1MANAGER.csproj.ResolveComReference.cache
+C:\Users\Natasha\Downloads\SPBU12_1MANAGER\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12.1MANAGER.exe
+C:\Users\Natasha\Downloads\SPBU12_1MANAGER\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12.1MANAGER.pdb
+C:\Users\Natasha\Downloads\SPBU12_1MANAGER\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\SPBU12.1MANAGER.exe
+C:\Users\Natasha\Downloads\SPBU12_1MANAGER\SPBU12.1MANAGER\SPBU12.1MANAGER\bin\Debug\SPBU12.1MANAGER.pdb
+C:\Users\Natasha\Downloads\SPBU12_1MANAGER\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12.1MANAGER.csprojResolveAssemblyReference.cache
+C:\Users\Natasha\Downloads\SPBU12_1MANAGER\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.Configuration.resources
+C:\Users\Natasha\Downloads\SPBU12_1MANAGER\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.CopyBox.resources
+C:\Users\Natasha\Downloads\SPBU12_1MANAGER\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.DownloadFiles.resources
+C:\Users\Natasha\Downloads\SPBU12_1MANAGER\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.Favorite.resources
+C:\Users\Natasha\Downloads\SPBU12_1MANAGER\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.FindAsync.resources
+C:\Users\Natasha\Downloads\SPBU12_1MANAGER\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.Form1.resources
+C:\Users\Natasha\Downloads\SPBU12_1MANAGER\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.HelpBox.resources
+C:\Users\Natasha\Downloads\SPBU12_1MANAGER\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.Properties.Resources.resources
+C:\Users\Natasha\Downloads\SPBU12_1MANAGER\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.Start.resources
+C:\Users\Natasha\Downloads\SPBU12_1MANAGER\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.WhichFindPD.resources
+C:\Users\Natasha\Downloads\SPBU12_1MANAGER\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12._1MANAGER.Window.resources
+C:\Users\Natasha\Downloads\SPBU12_1MANAGER\SPBU12.1MANAGER\SPBU12.1MANAGER\obj\Debug\SPBU12.1MANAGER.csproj.GenerateResource.Cache
